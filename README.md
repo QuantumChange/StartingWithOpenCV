@@ -4,6 +4,16 @@ Starting with OpenCV
 
 # About This Reposit
 
+
+## Installation Of openCV package
+
+Packages for standard desktop environments (Windows, macOS, almost any GNU/Linux distribution)
+
+run pip install opencv-python if you need only main modules.
+run pip install opencv-contrib-python if you need both main and contrib modules.
+
+## Description
+
 As we all know openCV is a great library in python for image processing.
 These jupyter notebooks will give a quick start for openCV image processing.
 
