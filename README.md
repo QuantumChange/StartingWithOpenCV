@@ -5,7 +5,7 @@ Starting with OpenCV
 # About This Reposit
 
 As we all know openCV is a great library in python for image processing.
-These jupyter notebooks will give a quick start with openCV image processing.
+These jupyter notebooks will give a quick start for openCV image processing.
 
 ImageRecon.ipynb will be the first notebook to start.
 
